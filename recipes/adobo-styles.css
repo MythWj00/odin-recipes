@@ -22,3 +22,16 @@ h1 {
 #ingredients ul li {
     background-color: #c4d0da;
 }
+
+#steps {
+    list-style-position: inside;
+}
+
+#steps ol li {
+    text-align: left;
+    
+}
+ol {
+display: inline-block;
+border: 2px solid black;
+}

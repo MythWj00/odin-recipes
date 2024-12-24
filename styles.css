@@ -17,5 +17,8 @@ ul {
     list-style: none;
     font-size: 55px;
 }
+a {
+    text-decoration: none;
+}
 
 

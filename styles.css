@@ -1,11 +1,15 @@
 /* styles.css */
 
-h1 {
-    font-size: 75px;
-    font-family: 'Times New Roman', Times, serif;
-}
-
 * {
     text-align: center;
     background-color: #ebb35b;
+   
 }
+
+h1 {
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #c4d0da;
+    background-color: #00030d;
+}
+

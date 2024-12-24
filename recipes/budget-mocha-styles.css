@@ -1,1 +1,36 @@
 /* styles.css */
+
+* {
+    text-align: center;
+    background-color: #ebb35b;
+}
+
+h1 {
+    font-size: 70px;
+}
+#ingredients ul li {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+   
+}
+#ingredients ul li {
+    background-color: #c4d0da;
+}
+
+#steps {
+    list-style-position: inside;
+}
+
+#steps ol li {
+    text-align: left;
+    
+}
+ol {
+display: inline-block;
+border: 2px solid black;
+}
+
+h3 {
+    font-size: 35px;
+}

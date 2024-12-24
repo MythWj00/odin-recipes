@@ -13,7 +13,7 @@ h1 {
     background-color: #00030d;
 }
 
-ul {
+p {
     list-style: none;
     font-size: 55px;
 }
@@ -24,5 +24,7 @@ a {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif
 }
+
+
 
 

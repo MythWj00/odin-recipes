@@ -13,3 +13,12 @@ img {
 h1 {
     font-size: 70px;
 }
+#ingredients ul li {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+   
+}
+#ingredients ul li {
+    background-color: white;
+}

@@ -35,3 +35,7 @@ ol {
 display: inline-block;
 border: 2px solid black;
 }
+
+h3 {
+    font-size: 35px;
+}

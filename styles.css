@@ -4,3 +4,8 @@ h1 {
     font-size: 75px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+* {
+    text-align: center;
+    background-color: #ebb35b;
+}

@@ -1,2 +1,6 @@
 /* styles.css */
 
+* {
+    text-align: center;
+    background-color: #ebb35b;
+}
